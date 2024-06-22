@@ -1,0 +1,19 @@
+.paragraph{
+    background-color: hsl(0, 74%, 74%);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+.paragraph.third{
+    font-size: 24px;
+}
+
+#second{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: hsl(123, 69%, 72%);
+    /* font-size: 24px; */
+    font-weight: bold;
+}
